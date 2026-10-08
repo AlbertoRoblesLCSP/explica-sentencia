@@ -13,7 +13,7 @@ Cuando el entorno permite crear archivos, pide un **informe HTML autocontenido**
 
 ## Ejemplo: sentencia sobre TRAGSA
 
-**[Descargar la explicación en HTML](ejemplo-tragsa-STS-802-2026.html?raw=true)**
+**[Ver ejemplo visual: STS 802/2026 sobre TRAGSA](https://albertorobleslcsp.github.io/explica-sentencia/ejemplo-tragsa-STS-802-2026.html)**
 
 Este es el último HTML compartido y revisado en el proceso de refinamiento de la skill: una explicación de la STS 802/2026 sobre el encargo a TRAGSA en Candás. Se conserva el resultado original como ejemplo del diseño y de la estructura de la explicación.
 
