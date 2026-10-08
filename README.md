@@ -9,7 +9,7 @@ Una skill en español que guía a la IA para explicar qué ocurrió, qué se dis
 
 Cuando el entorno permite crear archivos, pide un **informe HTML autocontenido**, con diseño editorial sobrio, tablas, cronologías y esquemas cuando ayudan a comprender. Puede abrirse en un navegador. Si no es posible generar HTML, utiliza Markdown estructurado.
 
-**[Descargar la skill en ZIP](explica-sentencia.zip?raw=true)** · [Leer sus instrucciones](explica-sentencia/SKILL.md)
+**[Descargar la skill en ZIP](https://raw.githubusercontent.com/AlbertoRoblesLCSP/explica-sentencia/main/explica-sentencia.zip)** · [Leer sus instrucciones](explica-sentencia/SKILL.md)
 
 ## Ejemplo: sentencia sobre TRAGSA
 
