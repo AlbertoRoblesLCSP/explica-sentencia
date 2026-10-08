@@ -1,0 +1,15 @@
+interface:
+  display_name: explica sentencia
+  short_description: Analiza y explica de forma visual y rigurosa sentencias y resoluciones
+    judiciales. Úsala cuando el usuario aporte una sentencia, un enlace, un ECLI,
+    ROJ, número de sentencia, recurso u otros datos para localizarla y quiera comprender
+    sus hechos, cuestión jurídica, razonamiento, fallo, doctrina y consecuencias prácticas.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
