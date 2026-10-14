@@ -3,7 +3,7 @@
 **Versión 1.03 · Tercera versión refinada**  
 Autoría: [AlbertoRoblesLCSP](https://github.com/AlbertoRoblesLCSP) · Uso no comercial
 
-**Comprender una sentencia con lenguaje claro, rigor jurídico y presentación visual.**
+**Comprender una sentencia con lenguaje claro, rigor jurídico y presentación visual agradable y diáfana.**
 
 Una skill en español que guía a la IA para explicar qué ocurrió, qué se discutía, cómo razona el tribunal y qué decide. Distingue los hechos, las alegaciones de las partes, la doctrina expresamente formulada y el fallo.
 
@@ -25,11 +25,11 @@ Esta es la **tercera versión de la skill**, refinada tras las pruebas realizada
 
 ## Qué puedes darle
 
-- Una sentencia en PDF, Word u otro documento.
-- Un enlace al texto de la resolución.
-- Un ECLI, ROJ, número de sentencia, tribunal u otros datos que permitan intentar localizarla.
+- Una sentencia en PDF, Word u otro documento. Comprobado su funcionamiento
+- Un enlace al texto de la resolución. Depende de la ubicación del enlace
+- Un ECLI, ROJ, número de sentencia, tribunal u otros datos que permitan intentar localizarla. Depende de la ubicación del enlace, pej al Cendoj suele fallar.
 
-La búsqueda de una resolución depende de las herramientas y del acceso a fuentes disponibles en la aplicación donde se utilice.
+La búsqueda de una resolución depende de las herramientas y del acceso a fuentes disponibles en la aplicación donde se utilice. Lo que ha funcionado siempre en las pruebas ha sido adjuntarle un pdf.
 
 ## Qué aporta
 
@@ -56,7 +56,7 @@ Por ejemplo:
 
 O, si tu aplicación dispone de búsqueda:
 
-> Usa la skill explica sentencia para localizar y explicar la resolución identificada con este ECLI: [pega aquí el ECLI]. Si no accedes al texto íntegro, indícalo.
+> Usa la skill explica sentencia para localizar y explicar la resolución identificada con este ECLI: [pega aquí el ECLI]. Si no accedes al texto íntegro, indícalo. No ha funcionado siempre lo de la búsqueda.
 
 ## Pruebas y compatibilidad
 
